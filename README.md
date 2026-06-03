@@ -22,6 +22,31 @@ Building real-world solutions through technology
 🌱 Currently Learning Spring Boot, AI Agents & Cloud Technologies
 
 ---
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoj-hg&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-hg&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/manojhg">LinkedIn</a> •
+<a href="https://manojhg.netlify.app">Portfolio</a> •
+<a href="mailto:manojhg321@gmail.com">Email</a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -47,13 +72,20 @@ Personal portfolio showcasing projects and achievements
 
 ---
 
-## 🔥 Current Focus
+## 🎯 2026 Goals
 
-* AI Applications
-* Full Stack Development
-* Open Source
-* Leadership & Innovation
+- Build production-ready AI projects
+- Contribute to Open Source
+- Master Spring Boot & React
+- Lead impactful tech initiatives
 
 ---
 
+## ⚡ Fun Fact
+
+I enjoy building projects that combine AI, software, and real-world problem solving.
+
 > Building. Learning. Leading.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manoj-hg&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
