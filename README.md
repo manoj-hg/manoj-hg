@@ -1,12 +1,19 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=AI+Developer;Full+Stack+Builder;President+%40+Creovators+Club;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=AI+%7C+Web+%7C+Robotics+Developer;President+%40+Creovators+Club;Building+Real-World+Tech+Solutions;Always+Learning+Always+Building" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Manoj H.G</h1>
 
-<h3 align="center">🚀 AI, Web & Robotics Developer</h3>
+<h3 align="center">🚀 AI • Full Stack • Robotics</h3>
 
 <p align="center">
-Building real-world solutions through technology
+Building innovative solutions through AI, software engineering, and robotics.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/manoj-h-g">LinkedIn</a> •
+<a href="https://manojhg.netlify.app">Portfolio</a> •
+<a href="mailto:manojhg321@gmail.com">Email</a>
 </p>
 
 ---
@@ -15,26 +22,24 @@ Building real-world solutions through technology
 
 🎓 Computer Science Engineering Student @ Presidency University
 
+📈 CGPA: 9.02
+
 👨‍💼 President @ Creovators Club
 
-💡 Interested in AI, Full Stack Development & Robotics
+🤖 Passionate about Artificial Intelligence, Full Stack Development & Robotics
 
-🌱 Currently Learning Spring Boot, AI Agents & Cloud Technologies
+🌱 Currently exploring Spring Boot, AI Agents and Cloud Technologies
 
 ---
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoj-hg&show_icons=true&theme=tokyonight" />
-</p>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-hg&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manoj-hg&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-hg&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/manojhg">LinkedIn</a> •
-<a href="https://manojhg.netlify.app">Portfolio</a> •
-<a href="mailto:manojhg321@gmail.com">Email</a>
-</p>
+---
 
 ## 🛠️ Tech Stack
 
@@ -48,44 +53,48 @@ Building real-world solutions through technology
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 DarkPulse
 
-AI-powered classroom focus assistant
+AI-powered classroom focus and engagement assistant.
 
 ### 🧠 AI Attendance System
 
-Face recognition attendance tracking system
+Face recognition based attendance management system.
 
 ### 🔬 HSI Anomaly Detection
 
-AI-based anomaly detection using hyperspectral imaging
+Machine learning powered anomaly detection using hyperspectral imaging.
 
 ### 🦾 Hand Gesture Robotic Arm
 
-Arduino-powered robotic arm controlled through gestures
+Gesture-controlled robotic arm using Arduino and sensors.
 
 ### 🌐 Portfolio Website
 
-Personal portfolio showcasing projects and achievements
+Personal website showcasing projects, leadership and achievements.
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build production-ready AI projects
-- Contribute to Open Source
-- Master Spring Boot & React
-- Lead impactful tech initiatives
+* Build production-ready AI applications
+* Contribute to Open Source projects
+* Master Spring Boot & React
+* Publish impactful technical projects
+* Lead innovative student initiatives
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building projects that combine AI, software, and real-world problem solving.
+I enjoy transforming ideas into real-world technology solutions through code, AI and robotics.
 
-> Building. Learning. Leading.
+> Building • Learning • Leading 🚀
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manoj-hg&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=manoj-hg&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
