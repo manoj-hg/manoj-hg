@@ -90,6 +90,11 @@ Personal website showcasing projects, leadership and achievements.
 * Lead innovative student initiatives
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/manoj-hg/manoj-hg/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ## ⚡ Fun Fact
 
