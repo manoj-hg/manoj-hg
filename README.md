@@ -22,8 +22,6 @@ Building innovative solutions through AI, software engineering, and robotics.
 
 🎓 Computer Science Engineering Student @ Presidency University
 
-📈 CGPA: 9.02
-
 👨‍💼 President @ Creovators Club
 
 🤖 Passionate about Artificial Intelligence, Full Stack Development & Robotics
