@@ -19,26 +19,66 @@
 
 ⚡ Technologies I Know
 
-Programming
-🐍 Python • ☕ Java • C • JavaScript
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-AI / ML
-🤖 Machine Learning • 🧠 Deep Learning • 👁️ Computer Vision
-🔥 CNN • 🔬 Vision Transformers • 💬 LLMs • 🤗 Hugging Face
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vision%20Transformer-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-Frameworks & Backend
-⚛️ React • 🚀 FastAPI • 🟢 Node.js • Express
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-Databases
-🍃 MongoDB • 🐬 MySQL
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-Tools & Platforms
-🐙 Git • GitHub • 💻 VS Code • 🔌 Arduino • ▲ Vercel
+📚 Currently Learning
 
-Currently Learning
-☕ Spring Boot • ☁️ Cloud Computing • 🤖 AI Agents • 🏗️ System Design
+<p align="left">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge"/>
+</p>
 
 <br clear="right"/>
+
+🌐 Portfolio
+
+<div align="center">
+
+<a href="https://manojhg.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-FFB000?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="https://manojhg.netlify.app">
+<img src="assets/banner.png" width="85%"/>
+</a>
+
+</div>
 
 🚀 Projects
 
