@@ -249,7 +249,6 @@ Showcasing my projects, experience, achievements and technical journey.
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=manoj-hg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
 </div>
 
 ---
