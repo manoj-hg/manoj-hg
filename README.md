@@ -1,194 +1,315 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%"/>
+<img src="assets/banner.png" width="100%" />
 
-👋 Hi, I'm Manoj H.G
+# 👋 Hi, I'm Manoj H.G
 
-🤖 AI Engineer • 💻 Full Stack Developer • 👁️ Computer Vision • 🦾 Robotics
+### AI Engineer • Full Stack Developer • Computer Vision • Robotics
 
-</div>
-
-👨‍💻 About Me
-
-<img align="right" width="250" src="assets/profile.png"/>
-
-🎓 B.Tech CSE — Presidency University
-📈 CGPA: 9.18
-🏆 NVIDIA AI Engineering Intern
-👑 President — Creovators Club
-
-⚡ Technologies I Know
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vision%20Transformer-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-📚 Currently Learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge"/>
-</p>
-
-<br clear="right"/>
-
-🌐 Portfolio
-
-<div align="center">
-
-<a href="https://manojhg.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-FFB000?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-
-<br><br>
-
-<a href="https://manojhg.netlify.app">
-<img src="assets/banner.png" width="85%"/>
-</a>
-
-</div>
-
-🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="assets/pashu.png" width="100%"/>
-
-🐄 Pashu Mitra
-
-AI-powered cattle & buffalo breed identification.
-
-React • FastAPI • PyTorch • ViT • CNN
-
-</td>
-<td width="50%">
-
-<img src="assets/hsi.png" width="100%"/>
-
-🔬 HSI Anomaly Detection
-
-Hyperspectral imaging based anomaly detection.
-
-Python • ML • HSI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="assets/attendence.png" width="100%"/>
-
-👤 AI Attendance System
-
-Face recognition based attendance automation.
-
-Python • OpenCV • Face Recognition
-
-</td>
-<td width="50%">
-
-<img src="assets/wemdas.png" width="100%"/>
-
-🌦️ WEMDAS
-
-Weather + movie discovery platform.
-
-React • JavaScript • REST APIs
-
-</td>
-</tr>
-</table>
-
-💼 Experience
-
-NVIDIA Accelerated AI Centre of Excellence — AI Engineering Intern
-Deep Learning • CNN • ViT • PyTorch • H200 • LLMs
-
-InAmigos Foundation — Web Development Intern
-React • Shopify • Sanity CMS • Deployment
-
-🏆 Highlights
-
-🥇 NVIDIA AI Internship
-👑 President — Creovators Club
-🥈 TechTambola Runner-up
-🚀 Smart India Hackathon — Internal Top 30
-🚀 FusionX National Hackathon
-⭐ Campus Ambassador — Unlox
-📜 Letter of Recommendation — InAmigos
-
-📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manoj-hg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-hg&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-hg&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://manojhg.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-FFB000?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/manoj-h-g">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:manojhg321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/manoj-hg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-🏆 GitHub Trophies
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="250" src="assets/profile.png"/>
+
+🎓 **B.Tech Computer Science Engineering**
+🏫 Presidency University, Bengaluru
+📈 **CGPA: 9.18**
+🤖 **AI Engineering Intern — NVIDIA Accelerated AI Centre of Excellence**
+👑 **President — Creovators Club**
+
+### 💡 Interests
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🌐 Full Stack Development
+* 🦾 Robotics
+* 🧠 AI Agents
+
+### 🌱 Currently Learning
+
+`Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design`
+
+<br clear="right"/>
+
+---
+
+## 💼 Experience
+
+### 🟢 NVIDIA Accelerated AI Centre of Excellence
+
+**AI Engineering Intern**
+
+`Deep Learning` `CNN` `Vision Transformer` `PyTorch` `NVIDIA H200` `LLM Fine-Tuning`
+
+### 🔵 InAmigos Foundation
+
+**Web Development Intern**
+
+`React` `Shopify` `Sanity CMS` `Responsive Web Development` `Backend Integration`
+
+---
+
+## 👑 Leadership
+
+### President — Creovators Club
+
+* Led **500+ students**
+* Organized technical events and workshops
+* Promoted innovation and student projects
+* Mentored students
+
+### Secretary — Rangers & Rovers
+
+* Event Coordination
+* Leadership
+* Team Management
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Machine Learning` `Deep Learning` `Computer Vision` `CNN` `Vision Transformers` `LLMs` `Hugging Face` `FastAPI`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🐄 Pashu Mitra
+
+**AI-Powered Cattle & Buffalo Breed Identification**
+
+Computer Vision and Deep Learning platform for livestock breed identification.
+
+`React` `FastAPI` `PyTorch` `ViT` `CNN`
+
+<a href="https://pashu-mitra-ver1.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-22c55e?style=for-the-badge"/>
+</a>
+<a href="https://github.com/manoj-hg/Pashu_Mitra_backend">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+</a>
+
+---
+
+### 🔬 HSI Anomaly Detection
+
+**Machine Learning • Hyperspectral Imaging**
+
+Anomaly detection project using hyperspectral imaging.
+
+`Python` `Machine Learning` `HSI` `Data Analysis`
+
+<a href="https://github.com/manoj-hg/HSI-Anomaly-Detection">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+</a>
+
+---
+
+### 👤 AI Attendance System
+
+**Face Recognition Attendance Platform**
+
+Computer Vision based attendance management system.
+
+`Python` `OpenCV` `Face Recognition` `Computer Vision`
+
+<a href="https://github.com/manoj-hg/AI-Attendance-System">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+</a>
+
+---
+
+### 🌦️ WEMDAS
+
+**Weather & Movie Discovery Platform**
+
+Responsive web application combining weather forecasts and movie discovery.
+
+`React` `JavaScript` `REST APIs`
+
+<a href="https://wemdas.netlify.app/">
+<img src="https://img.shields.io/badge/🌍%20Live-22c55e?style=for-the-badge"/>
+</a>
+
+---
+
+# 🌐 Portfolio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manoj-hg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="assets/portfolio.png" width="100%"/>
+
+### Personal Portfolio Website
+
+<a href="https://manojhg.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-FFB000?style=for-the-badge"/>
+</a>
 
 </div>
 
-🎯 Current Focus
+---
 
-🤖 AI Agents • ☕ Spring Boot • ☁️ Cloud • 👁️ Computer Vision • ⚡ Open Source
+# 🏆 Achievements
 
-🌐 Connect
+| Achievement                             |    |
+| --------------------------------------- | -- |
+| NVIDIA AI Internship                    | ✅  |
+| President – Creovators Club             | 👑 |
+| TechTambola Runner-up                   | 🥈 |
+| Smart India Hackathon – Internal Top 30 | 🚀 |
+| FusionX National Hackathon              | 🚀 |
+| Campus Ambassador – Unlox               | ⭐  |
+| Letter of Recommendation – InAmigos     | 📜 |
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Forage-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-LLMs-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-NPTEL-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-🌐 Portfolio •
-💼 LinkedIn •
-🐙 GitHub •
-📧 Email
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-hg&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manoj-hg/manoj-hg/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+`🤖 AI Agents` • `☁️ Cloud Computing` • `🌱 Spring Boot` • `🧠 Computer Vision` • `⚡ Open Source`
+
+---
+
+# 📅 2026 Goals
+
+* Build production-ready AI applications
+* Master Spring Boot
+* Explore AWS Cloud
+* Contribute to Open Source
+* Publish impactful AI projects
+* Secure a Software Engineering role
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://manojhg.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-FFB000?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/manoj-h-g">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:manojhg321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/manoj-hg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br><br>
 
-⭐ Always Learning • Always Building
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Engineering intelligent solutions through AI, software, and robotics.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=120&section=footer"/>
 
 </div>
