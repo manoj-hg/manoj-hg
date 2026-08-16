@@ -39,50 +39,13 @@
 
 ### 💡 Interests
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* 🌐 Full Stack Development
-* 🦾 Robotics
-* 🧠 AI Agents
+`🤖 AI/ML` `👁️ Computer Vision` `🌐 Full Stack` `🦾 Robotics` `🧠 AI Agents`
 
 ### 🌱 Currently Learning
 
 `Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design`
 
 <br clear="right"/>
-
----
-
-## 💼 Experience
-
-### 🟢 NVIDIA Accelerated AI Centre of Excellence
-
-**AI Engineering Intern**
-
-`Deep Learning` `CNN` `Vision Transformer` `PyTorch` `NVIDIA H200` `LLM Fine-Tuning`
-
-### 🔵 InAmigos Foundation
-
-**Web Development Intern**
-
-`React` `Shopify` `Sanity CMS` `Responsive Web Development` `Backend Integration`
-
----
-
-## 👑 Leadership
-
-### President — Creovators Club
-
-* Led **500+ students**
-* Organized technical events and workshops
-* Promoted innovation and student projects
-* Mentored students
-
-### Secretary — Rangers & Rovers
-
-* Event Coordination
-* Leadership
-* Team Management
 
 ---
 
@@ -141,56 +104,76 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assets/pashu.png" width="100%"/>
+
 ### 🐄 Pashu Mitra
 
 **AI-Powered Cattle & Buffalo Breed Identification**
-
-Computer Vision and Deep Learning platform for livestock breed identification.
 
 `React` `FastAPI` `PyTorch` `ViT` `CNN`
 
 <a href="https://pashu-mitra-ver1.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-22c55e?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/manoj-hg/Pashu_Mitra_backend">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
----
+</td>
+
+<td width="50%">
+
+<img src="assets/hsi.png" width="100%"/>
 
 ### 🔬 HSI Anomaly Detection
 
 **Machine Learning • Hyperspectral Imaging**
 
-Anomaly detection project using hyperspectral imaging.
-
-`Python` `Machine Learning` `HSI` `Data Analysis`
+`Python` `Machine Learning` `HSI`
 
 <a href="https://github.com/manoj-hg/HSI-Anomaly-Detection">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
----
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assets/attendance.png" width="100%"/>
 
 ### 👤 AI Attendance System
 
 **Face Recognition Attendance Platform**
 
-Computer Vision based attendance management system.
-
-`Python` `OpenCV` `Face Recognition` `Computer Vision`
+`Python` `OpenCV` `Computer Vision`
 
 <a href="https://github.com/manoj-hg/AI-Attendance-System">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
----
+</td>
+
+<td width="50%">
+
+<img src="assets/wemdas.png" width="100%"/>
 
 ### 🌦️ WEMDAS
 
 **Weather & Movie Discovery Platform**
-
-Responsive web application combining weather forecasts and movie discovery.
 
 `React` `JavaScript` `REST APIs`
 
@@ -198,15 +181,22 @@ Responsive web application combining weather forecasts and movie discovery.
 <img src="https://img.shields.io/badge/🌍%20Live-22c55e?style=for-the-badge"/>
 </a>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
 # 🌐 Portfolio
 
 <div align="center">
 
-<img src="assets/portfolio.png" width="100%"/>
+<img src="assets/profile.png" width="250"/>
 
 ### Personal Portfolio Website
+
+Showcasing my projects, experience, achievements and technical journey.
 
 <a href="https://manojhg.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-FFB000?style=for-the-badge"/>
@@ -244,7 +234,27 @@ Responsive web application combining weather forecasts and movie discovery.
 
 ---
 
-# 📈 GitHub Activity
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-hg&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manoj-hg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -288,12 +298,15 @@ Responsive web application combining weather forecasts and movie discovery.
 <a href="https://manojhg.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-FFB000?style=for-the-badge"/>
 </a>
+
 <a href="https://www.linkedin.com/in/manoj-h-g">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:manojhg321@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://github.com/manoj-hg">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
