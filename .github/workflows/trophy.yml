@@ -2,8 +2,6 @@ name: Generate GitHub Trophies
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"
 
 jobs:
   trophy:
@@ -13,18 +11,18 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy
+      - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: manoj-hg
           output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Trophy
+      - name: Commit trophy
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update GitHub trophies"
+          commit_message: "Generate GitHub trophies"
           file_pattern: trophy.svg
