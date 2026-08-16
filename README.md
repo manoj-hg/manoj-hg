@@ -1,13 +1,16 @@
 <!--========================================================-->
+
 <!--                    MANOJ H.G                           -->
+
 <!--========================================================-->
+
 <div align="center">
-  
+
 <img src="assets/banner.png" width="100%" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Manoj H.G
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Manoj H.G
 
-### AI Engineer • Full Stack Developer • Computer Vision • Robotics
+AI Engineer • Full Stack Developer • Computer Vision • Robotics
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=Engineering+intelligent+solutions+through+AI,+software,+and+robotics.;Artificial+Intelligence+Engineer.;Computer+Vision+Developer.;Full+Stack+Developer.;President+@+Creovators+Club.;Always+Learning+•+Always+Building."/>
 
@@ -31,17 +34,15 @@
 
 </div>
 
----
-
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 <img align="right" width="280" src="assets/profile.png"/>
 
-🎓 **B.Tech Computer Science Engineering**
+🎓 B.Tech Computer Science Engineering
 
 🏫 Presidency University, Bengaluru
 
-📈 **CGPA : 9.18**
+📈 CGPA : 9.18
 
 🏆 NVIDIA Accelerated AI Centre of Excellence Intern
 
@@ -49,28 +50,33 @@
 
 🤖 Passionate about
 
-- Artificial Intelligence
-- Computer Vision
-- Full Stack Development
-- Robotics
-- AI Agents
+Artificial Intelligence
+
+Computer Vision
+
+Full Stack Development
+
+Robotics
+
+AI Agents
 
 🌱 Currently Learning
 
-- Spring Boot
-- Cloud Computing
-- AI Agents
-- System Design
+Spring Boot
 
-💡 **Mission**
+Cloud Computing
 
-> Engineering intelligent solutions through AI, software, and robotics.
+AI Agents
+
+System Design
+
+💡 Mission
+
+Engineering intelligent solutions through AI, software, and robotics.
 
 <br clear="right"/>
 
----
-
-# 💼 Experience
+💼 Experience
 
 <table>
 
@@ -78,36 +84,47 @@
 
 <td width="50%">
 
-## 🟢 NVIDIA Accelerated AI Centre of Excellence
+🟢 NVIDIA Accelerated AI Centre of Excellence
 
-### AI Engineering Intern
+AI Engineering Intern
 
 Worked on
 
-- Deep Learning
-- CNN
-- Vision Transformer
-- PyTorch
-- NVIDIA H200 GPUs
-- Stable Diffusion XL
-- LLM Fine-Tuning
+Deep Learning
+
+CNN
+
+Vision Transformer
+
+PyTorch
+
+NVIDIA H200 GPUs
+
+Stable Diffusion XL
+
+LLM Fine-Tuning
 
 </td>
 
 <td width="50%">
 
-## 🔵 InAmigos Foundation
+🔵 InAmigos Foundation
 
-### Web Development Intern
+Web Development Intern
 
 Worked on
 
-- Responsive Websites
-- Shopify
-- React
-- Sanity CMS
-- Deployment
-- Backend Integration
+Responsive Websites
+
+Shopify
+
+React
+
+Sanity CMS
+
+Deployment
+
+Backend Integration
 
 </td>
 
@@ -115,9 +132,7 @@ Worked on
 
 </table>
 
----
-
-# 👑 Leadership
+👑 Leadership
 
 <table>
 
@@ -125,9 +140,9 @@ Worked on
 
 <td>
 
-## President
+President
 
-### Creovators Club
+Creovators Club
 
 ✔ Led 500+ students
 
@@ -143,9 +158,9 @@ Worked on
 
 <td>
 
-## Secretary
+Secretary
 
-### Rangers & Rovers
+Rangers & Rovers
 
 ✔ Event Coordination
 
@@ -159,11 +174,9 @@ Worked on
 
 </table>
 
----
+🛠 Tech Stack
 
-# 🛠 Tech Stack
-
-## Programming Languages
+Programming Languages
 
 <p>
 
@@ -179,9 +192,7 @@ Worked on
 
 </p>
 
----
-
-## AI / Machine Learning
+AI / Machine Learning
 
 <p>
 
@@ -195,20 +206,25 @@ Worked on
 
 </p>
 
-**Core Skills**
+Core Skills
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- CNN
-- Vision Transformer (ViT)
-- LLMs
-- Hugging Face
-- FastAPI
+Machine Learning
 
----
+Deep Learning
 
-## Web Development
+Computer Vision
+
+CNN
+
+Vision Transformer (ViT)
+
+LLMs
+
+Hugging Face
+
+FastAPI
+
+Web Development
 
 <p>
 
@@ -226,9 +242,7 @@ Worked on
 
 </p>
 
----
-
-## Database
+Database
 
 <p>
 
@@ -238,9 +252,7 @@ Worked on
 
 </p>
 
----
-
-## Tools
+Tools
 
 <p>
 
@@ -256,20 +268,11 @@ Worked on
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-> Scroll down 👇
-<!-- ======================================================== -->
-<!--                 🚀 FEATURED PROJECTS                     -->
-<!-- ======================================================== -->
-
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-> **Building AI-powered software that solves real-world problems.**
+Building AI-powered software that solves real-world problems.
 
 </div>
 
@@ -281,19 +284,19 @@ Worked on
 
 <td width="50%">
 
-<img src="assets/pashu.png"/>
+<img src="assets/pashu.png" width="420"/>
 
 </td>
 
 <td width="50%">
 
-# 🐄 Pashu Mitra
+🐄 Pashu Mitra
 
-### AI-Powered Cattle & Buffalo Breed Identification
+AI-Powered Cattle & Buffalo Breed Identification
 
-An intelligent livestock identification platform using **Computer Vision** and **Deep Learning**.
+An intelligent livestock identification platform using Computer Vision and Deep Learning.
 
-### ⚡ Highlights
+⚡ Highlights
 
 ✅ Vision Transformer (ViT)
 
@@ -309,13 +312,13 @@ An intelligent livestock identification platform using **Computer Vision** and *
 
 ✅ Image Upload Prediction
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
-`React`
-`FastAPI`
-`PyTorch`
-`ViT`
-`CNN`
+React
+FastAPI
+PyTorch
+ViT
+CNN
 
 <br>
 
@@ -333,8 +336,6 @@ An intelligent livestock identification platform using **Computer Vision** and *
 
 </table>
 
----
-
 <br>
 
 <table>
@@ -343,13 +344,13 @@ An intelligent livestock identification platform using **Computer Vision** and *
 
 <td width="50%">
 
-# 🔬 HSI Anomaly Detection
+🔬 HSI Anomaly Detection
 
-### Machine Learning • Hyperspectral Imaging
+Machine Learning • Hyperspectral Imaging
 
 National Hackathon project focused on anomaly detection using hyperspectral imaging.
 
-### ✨ Highlights
+✨ Highlights
 
 ✅ Machine Learning
 
@@ -361,13 +362,13 @@ National Hackathon project focused on anomaly detection using hyperspectral imag
 
 ✅ Research
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
-`Python`
+Python
 
-`Machine Learning`
+Machine Learning
 
-`HSI`
+HSI
 
 <br>
 
@@ -381,15 +382,13 @@ National Hackathon project focused on anomaly detection using hyperspectral imag
 
 <td width="50%">
 
-<img src="assets/hsi.png"/>
+<img src="assets/hsi.png" width="420"/>
 
 </td>
 
 </tr>
 
 </table>
-
----
 
 <br>
 
@@ -399,19 +398,19 @@ National Hackathon project focused on anomaly detection using hyperspectral imag
 
 <td width="50%">
 
-<img src="assets/attendance.png"/>
+<img src="assets/attendence.png" width="420"/>
 
 </td>
 
 <td width="50%">
 
-# 👤 AI Attendance System
+👤 AI Attendance System
 
-### Face Recognition Attendance Platform
+Face Recognition Attendance Platform
 
 Computer Vision powered attendance management system.
 
-### ⚡ Features
+⚡ Features
 
 ✅ Face Detection
 
@@ -421,15 +420,15 @@ Computer Vision powered attendance management system.
 
 ✅ Secure Logging
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
-`Python`
+Python
 
-`OpenCV`
+OpenCV
 
-`Face Recognition`
+Face Recognition
 
-`Computer Vision`
+Computer Vision
 
 <br>
 
@@ -445,8 +444,6 @@ Computer Vision powered attendance management system.
 
 </table>
 
----
-
 <br>
 
 <table>
@@ -455,13 +452,13 @@ Computer Vision powered attendance management system.
 
 <td width="50%">
 
-# 🌦 WEMDAS
+🌦 WEMDAS
 
-### Weather & Movie Discovery Platform
+Weather & Movie Discovery Platform
 
 A responsive web application that combines weather forecasts with movie discovery.
 
-### Features
+Features
 
 ✅ Weather API
 
@@ -471,13 +468,13 @@ A responsive web application that combines weather forecasts with movie discover
 
 ✅ Fast Search
 
-### Tech Stack
+Tech Stack
 
-`React`
+React
 
-`JavaScript`
+JavaScript
 
-`REST APIs`
+REST APIs
 
 <br>
 
@@ -491,7 +488,7 @@ A responsive web application that combines weather forecasts with movie discover
 
 <td width="50%">
 
-<img src="assets/wemdas.png"/>
+<img src="assets/wemdas.png" width="420"/>
 
 </td>
 
@@ -499,67 +496,13 @@ A responsive web application that combines weather forecasts with movie discover
 
 </table>
 
----
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="assets/nammanaadu.png"/>
-
-</td>
-
-<td width="50%">
-
-# 🚦 Namma Naadu
-
-### AI Smart Traffic Monitoring
-
-**Currently Under Development**
-
-### Planned Features
-
-🚗 Helmet Detection
-
-🚗 Wrong Side Detection
-
-🚗 Signal Jump Detection
-
-🚗 Overspeed Detection
-
-🚗 Government Dashboard
-
-🚗 Maps Integration
-
-### Tech Stack
-
-`React`
-
-`FastAPI`
-
-`YOLO`
-
-`OpenCV`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌐 Portfolio
+🌐 Portfolio
 
 <div align="center">
 
 <img src="assets/portfolio.png" width="100%"/>
 
-### Personal Portfolio Website
+Personal Portfolio Website
 
 Showcasing my projects, experience, achievements, and technical journey.
 
@@ -571,27 +514,45 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 </div>
 
----
-
-# 🏆 Highlights & Achievements
+🏆 Highlights & Achievements
 
 <div align="center">
 
-| 🏆 Achievement | Status |
-|---------------|--------|
-| NVIDIA AI Internship | ✅ |
-| President – Creovators Club | ✅ |
-| TechTambola Runner-up | 🥈 |
-| Smart India Hackathon (Internal Top 30) | 🚀 |
-| FusionX National Hackathon | 🚀 |
-| Campus Ambassador – Unlox | ⭐ |
-| Letter of Recommendation – InAmigos | 📜 |
+🏆 Achievement
+
+Status
+
+NVIDIA AI Internship
+
+✅
+
+President – Creovators Club
+
+✅
+
+TechTambola Runner-up
+
+🥈
+
+Smart India Hackathon (Internal Top 30)
+
+🚀
+
+FusionX National Hackathon
+
+🚀
+
+Campus Ambassador – Unlox
+
+⭐
+
+Letter of Recommendation – InAmigos
+
+📜
 
 </div>
 
----
-
-# 📜 Certifications
+📜 Certifications
 
 <p align="center">
 
@@ -607,13 +568,13 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 </p>
 
----
-
 <!-- ======================================================== -->
+
 <!--                 📊 GITHUB DASHBOARD                      -->
+
 <!-- ======================================================== -->
 
-# 📊 GitHub Dashboard
+📊 GitHub Dashboard
 
 <div align="center">
 
@@ -631,39 +592,7 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manoj-hg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-hg&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manoj-hg/manoj-hg/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
+🎯 Current Focus
 
 <table>
 
@@ -671,19 +600,19 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 <td>
 
-🚀 Building **Namma Naadu**
+🚀 Building Namma Naadu
 
 </td>
 
 <td>
 
-🤖 Learning **AI Agents**
+🤖 Learning AI Agents
 
 </td>
 
 <td>
 
-🌱 Mastering **Spring Boot**
+🌱 Mastering Spring Boot
 
 </td>
 
@@ -693,13 +622,13 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 <td>
 
-☁ Exploring **Cloud Computing**
+☁ Exploring Cloud Computing
 
 </td>
 
 <td>
 
-🧠 Improving **Computer Vision**
+🧠 Improving Computer Vision
 
 </td>
 
@@ -713,21 +642,23 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 </table>
 
----
+📅 2026 Goals
 
-# 📅 2026 Goals
+✅ Build production-ready AI applications
 
-- ✅ Build production-ready AI applications
-- ✅ Deploy Namma Naadu
-- ✅ Contribute to Open Source
-- ✅ Master Spring Boot
-- ✅ Explore AWS Cloud
-- ✅ Publish impactful AI projects
-- ✅ Secure a Software Engineering role
+✅ Deploy Namma Naadu
 
----
+✅ Contribute to Open Source
 
-# 🌐 Connect With Me
+✅ Master Spring Boot
+
+✅ Explore AWS Cloud
+
+✅ Publish impactful AI projects
+
+✅ Secure a Software Engineering role
+
+🌐 Connect With Me
 
 <div align="center">
 
@@ -749,21 +680,17 @@ Showcasing my projects, experience, achievements, and technical journey.
 
 </div>
 
----
-
-# 💡 Quote
+💡 Quote
 
 <div align="center">
 
-### "Engineering intelligent solutions through AI, software, and robotics."
+"Engineering intelligent solutions through AI, software, and robotics."
 
 </div>
 
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 If you like my work, consider starring my repositories.
 
