@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/banner.png" width="100%" />
-# 👋 Hi, I'm Manoj H.G
+# 👋 Hi, I'm Manoj H.G 
 
 ### AI Engineer • Full Stack Developer • Computer Vision • Robotics
 
