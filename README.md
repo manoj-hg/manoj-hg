@@ -3,7 +3,7 @@
 <img src="assets/banner.png" width="100%" />
 
 # 👋 Hi, I'm Manoj H.G 
-### AI Engineer • Full Stack Developer • Computer Vision • Robotics
+### AI Engineer • Full Stack Developer • Computer Vision • Robotics 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
 
