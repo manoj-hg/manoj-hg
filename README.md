@@ -1,12 +1,11 @@
-<div align="center">
-
+this is my profile redme - <div align="center">
+   
 <img src="assets/banner.png" width="100%" />
 
-# 👋 Hi, I'm Manoj H.G
+# 👋 Hi, I'm Manoj H.G 
+### AI Engineer • Full Stack Developer • Computer Vision • Robotics 
 
-### AI Engineer • Full Stack Developer • Computer Vision • Robotics • AI Agents
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Agent+Developer;Computer+Vision+Developer;Full+Stack+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
 
 <br>
 
@@ -39,11 +38,11 @@
 
 ### 💡 Interests
 
-`🤖 AI/ML` `🧠 AI Agents` `👁️ Computer Vision` `🌐 Full Stack` `🦾 Robotics` `☁️ Cloud`
+`🤖 AI/ML` `👁️ Computer Vision` `🌐 Full Stack` `🦾 Robotics` `🧠 AI Agents`
 
 ### 🌱 Currently Learning
 
-`Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design` `Generative AI`
+`Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design`
 
 <br clear="right"/>
 
@@ -70,11 +69,7 @@
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-`Machine Learning` `Deep Learning` `Computer Vision` `CNN` `Vision Transformers` `LLMs` `Hugging Face` `FastAPI` `Generative AI`
-
-### 🧠 AI Agents
-
-`Fetch.ai` `uAgents` `Agentverse` `ASI:One` `Agent Chat Protocol` `LLM Agents` `Autonomous Agents` `AI Automation`
+`Machine Learning` `Deep Learning` `Computer Vision` `CNN` `Vision Transformers` `LLMs` `Hugging Face` `FastAPI`
 
 ### 🌐 Web Development
 
@@ -94,7 +89,7 @@
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### ☁️ Cloud & Tools
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
@@ -102,7 +97,6 @@
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=vercel"/>
 <img src="https://skillicons.dev/icons?i=arduino"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
@@ -114,33 +108,11 @@
 
 <td width="50%">
 
-<img src="assets/Linkedin-buddy.png" width="100%"/>
-
-### 🤖 LinkedIn Buddy
-
-**Autonomous AI-Powered LinkedIn Content Agent**
-
-LinkedIn Buddy is an autonomous AI agent that generates professional LinkedIn content, creates creative AI-generated visuals, and publishes posts automatically.
-
-The agent uses **ASI:One** for content generation and works with **Fetch.ai uAgents + Agentverse** to provide an agent-based workflow.
-
-`Python` `ASI:One` `Fetch.ai` `uAgents` `Agentverse` `LinkedIn API` `AI Agents`
-
-<a href="https://github.com/manoj-hg/AI_Agent-Linkdin">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
 <img src="assets/pashu.png" width="100%"/>
 
 ### 🐄 Pashu Mitra
 
 **AI-Powered Cattle & Buffalo Breed Identification**
-
-An AI-powered application designed to identify cattle and buffalo breeds using computer vision and deep learning.
 
 `React` `FastAPI` `PyTorch` `ViT` `CNN`
 
@@ -149,18 +121,10 @@ An AI-powered application designed to identify cattle and buffalo breeds using c
 </a>
 
 <a href="https://github.com/manoj-hg/Pashu_Mitra_backend">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
 </td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 
 <td width="50%">
 
@@ -170,30 +134,10 @@ An AI-powered application designed to identify cattle and buffalo breeds using c
 
 **Machine Learning • Hyperspectral Imaging**
 
-A machine learning project focused on detecting anomalies in hyperspectral imagery.
-
-`Python` `Machine Learning` `Hyperspectral Imaging`
+`Python` `Machine Learning` `HSI`
 
 <a href="https://github.com/manoj-hg/HSI-Anomaly-Detection">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="assets/attendance.png" width="100%"/>
-
-### 👤 AI Attendance System
-
-**Face Recognition Attendance Platform**
-
-An AI-powered attendance system using facial recognition and computer vision.
-
-`Python` `OpenCV` `Computer Vision` `Face Recognition`
-
-<a href="https://github.com/manoj-hg/AI-Attendance-System">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
 </td>
@@ -208,31 +152,33 @@ An AI-powered attendance system using facial recognition and computer vision.
 
 <td width="50%">
 
-<img src="assets/wemdas.png" width="100%"/>
+<img src="assets/attendance.png" width="100%"/>
 
-### 🌦️ WEMDAS
+### 👤 AI Attendance System
 
-**Weather & Movie Discovery Platform**
+**Face Recognition Attendance Platform**
 
-A web application combining weather information and movie discovery through REST APIs.
+`Python` `OpenCV` `Computer Vision`
 
-`React` `JavaScript` `REST APIs`
-
-<a href="https://wemdas.netlify.app/">
-<img src="https://img.shields.io/badge/🌍%20Live%20Demo-22c55e?style=for-the-badge"/>
+<a href="https://github.com/manoj-hg/AI-Attendance-System">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🦾 Arduino Robotic Arm
+<img src="assets/wemdas.png" width="100%"/>
 
-**Hand Motion Controlled Robotic Arm**
+### 🌦️ WEMDAS
 
-A robotic system controlled using hand movements, combining Arduino-based hardware with motor control.
+**Weather & Movie Discovery Platform**
 
-`Arduino` `C++` `Robotics` `Sensors` `Motor Control`
+`React` `JavaScript` `REST APIs`
+
+<a href="https://wemdas.netlify.app/">
+<img src="https://img.shields.io/badge/🌍%20Live-22c55e?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -304,7 +250,6 @@ Showcasing my projects, experience, achievements and technical journey.
 <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=manoj-hg&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
@@ -329,20 +274,18 @@ Showcasing my projects, experience, achievements and technical journey.
 
 # 🎯 Current Focus
 
-`🤖 AI Agents` • `⚡ Fetch.ai` • `🧠 Generative AI` • `☁️ Cloud Computing` • `🌱 Spring Boot` • `👁️ Computer Vision`
+`🤖 AI Agents` • `☁️ Cloud Computing` • `🌱 Spring Boot` • `🧠 Computer Vision` • `⚡ Open Source`
 
 ---
 
 # 📅 2026 Goals
 
 * Build production-ready AI applications
-* Build and deploy autonomous AI agents
 * Master Spring Boot
 * Explore AWS Cloud
 * Contribute to Open Source
 * Publish impactful AI projects
-* Develop advanced Computer Vision systems
-* Secure a Software Engineering / AI Engineering role
+* Secure a Software Engineering role
 
 ---
 
@@ -381,3 +324,4 @@ Showcasing my projects, experience, achievements and technical journey.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=120&section=footer"/>
 
 </div>
+add my current proj 
