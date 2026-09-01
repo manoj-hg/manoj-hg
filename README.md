@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Manoj H.G
 
-### AI Engineer • Full Stack Developer • Computer Vision • Robotics
+### AI Engineer • Full Stack Developer • Computer Vision • Robotics • AI Agents
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Developer;Full+Stack+Developer;AI+Agent+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1500&color=F7C948&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Agent+Developer;Computer+Vision+Developer;Full+Stack+Developer;Robotics+Enthusiast;Always+Learning+%26+Building"/>
 
 <br>
 
@@ -39,11 +39,11 @@
 
 ### 💡 Interests
 
-`🤖 AI/ML` `👁️ Computer Vision` `🌐 Full Stack` `🦾 Robotics` `🧠 AI Agents`
+`🤖 AI/ML` `🧠 AI Agents` `👁️ Computer Vision` `🌐 Full Stack` `🦾 Robotics` `☁️ Cloud`
 
 ### 🌱 Currently Learning
 
-`Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design`
+`Java` `Spring Boot` `AI Agents` `Cloud Computing` `System Design` `Generative AI`
 
 <br clear="right"/>
 
@@ -70,7 +70,11 @@
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-`Machine Learning` `Deep Learning` `Computer Vision` `CNN` `Vision Transformers` `LLMs` `Hugging Face` `FastAPI` `AI Agents`
+`Machine Learning` `Deep Learning` `Computer Vision` `CNN` `Vision Transformers` `LLMs` `Hugging Face` `FastAPI` `Generative AI`
+
+### 🧠 AI Agents
+
+`Fetch.ai` `uAgents` `Agentverse` `ASI:One` `Agent Chat Protocol` `LLM Agents` `Autonomous Agents` `AI Automation`
 
 ### 🌐 Web Development
 
@@ -90,11 +94,7 @@
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### ☁️ Cloud & AI Platforms
-
-`AWS` `Fetch.ai` `Agentverse` `ASI:One` `OpenAI APIs`
-
-### 🔧 Tools
+### ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
@@ -102,6 +102,7 @@
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=vercel"/>
 <img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
@@ -113,25 +114,17 @@
 
 <td width="50%">
 
-<img src="assets/Linkdin-buddy.png" width="100%"/>
+<img src="assets/Linkedin-buddy.png" width="100%"/>
 
 ### 🤖 LinkedIn Buddy
 
-**AI-Powered Autonomous LinkedIn Content Agent**
+**Autonomous AI-Powered LinkedIn Content Agent**
 
-An autonomous AI agent that creates, generates, previews and publishes professional LinkedIn content with AI-generated creative images.
+LinkedIn Buddy is an autonomous AI agent that generates professional LinkedIn content, creates creative AI-generated visuals, and publishes posts automatically.
 
-`Python` `ASI:One` `Fetch.ai` `uAgents` `Agentverse` `LinkedIn API`
+The agent uses **ASI:One** for content generation and works with **Fetch.ai uAgents + Agentverse** to provide an agent-based workflow.
 
-### ✨ Features
-
-* 🧠 AI-generated LinkedIn posts
-* 🎨 AI-generated creative images
-* 📅 Automated daily posting
-* 💬 Agentverse chat interface
-* 🔗 LinkedIn API integration
-* ⚡ ASI:One powered content generation
-* 🤖 Autonomous AI agent architecture
+`Python` `ASI:One` `Fetch.ai` `uAgents` `Agentverse` `LinkedIn API` `AI Agents`
 
 <a href="https://github.com/manoj-hg/AI_Agent-Linkdin">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -147,6 +140,8 @@ An autonomous AI agent that creates, generates, previews and publishes professio
 
 **AI-Powered Cattle & Buffalo Breed Identification**
 
+An AI-powered application designed to identify cattle and buffalo breeds using computer vision and deep learning.
+
 `React` `FastAPI` `PyTorch` `ViT` `CNN`
 
 <a href="https://pashu-mitra-ver1.vercel.app/">
@@ -154,7 +149,7 @@ An autonomous AI agent that creates, generates, previews and publishes professio
 </a>
 
 <a href="https://github.com/manoj-hg/Pashu_Mitra_backend">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -175,10 +170,12 @@ An autonomous AI agent that creates, generates, previews and publishes professio
 
 **Machine Learning • Hyperspectral Imaging**
 
-`Python` `Machine Learning` `HSI`
+A machine learning project focused on detecting anomalies in hyperspectral imagery.
+
+`Python` `Machine Learning` `Hyperspectral Imaging`
 
 <a href="https://github.com/manoj-hg/HSI-Anomaly-Detection">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -191,10 +188,12 @@ An autonomous AI agent that creates, generates, previews and publishes professio
 
 **Face Recognition Attendance Platform**
 
-`Python` `OpenCV` `Computer Vision`
+An AI-powered attendance system using facial recognition and computer vision.
+
+`Python` `OpenCV` `Computer Vision` `Face Recognition`
 
 <a href="https://github.com/manoj-hg/AI-Attendance-System">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -215,120 +214,30 @@ An autonomous AI agent that creates, generates, previews and publishes professio
 
 **Weather & Movie Discovery Platform**
 
+A web application combining weather information and movie discovery through REST APIs.
+
 `React` `JavaScript` `REST APIs`
 
 <a href="https://wemdas.netlify.app/">
-<img src="https://img.shields.io/badge/🌍%20Live-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Live%20Demo-22c55e?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🦾 Robotics Projects
+### 🦾 Arduino Robotic Arm
 
-**Arduino-Based Hand Motion Controlled Robotic Arm**
+**Hand Motion Controlled Robotic Arm**
 
-`Arduino` `C++` `Sensors` `Robotics`
+A robotic system controlled using hand movements, combining Arduino-based hardware with motor control.
 
-Building intelligent hardware systems that combine sensors, embedded programming and automation.
+`Arduino` `C++` `Robotics` `Sensors` `Motor Control`
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 🤖 LinkedIn Buddy — AI Agent
-
-<div align="center">
-
-<img src="assets/Linkdin-buddy.png" width="80%"/>
-
-### Autonomous AI Content Creation & Publishing Agent
-
-</div>
-
-**LinkedIn Buddy** is an autonomous AI agent built using the **Fetch.ai uAgents framework**, **ASI:One** and the **LinkedIn API**.
-
-The agent can independently create professional LinkedIn content, generate accompanying AI visuals and publish posts.
-
-### 🔥 What It Can Do
-
-| Feature           | Description                                 |
-| ----------------- | ------------------------------------------- |
-| 🧠 AI Content     | Generates professional LinkedIn posts       |
-| 🎨 AI Images      | Creates custom futuristic visuals for posts |
-| 📅 Automation     | Automatically posts on a daily schedule     |
-| 💬 Chat Interface | Control the agent through Agentverse        |
-| 👁️ Preview       | Preview content before publishing           |
-| 🚀 Publishing     | Publishes directly to LinkedIn              |
-| 🌐 Agentverse     | Runs as an autonomous agent                 |
-| 🤝 Agent Protocol | Supports Agent Chat Protocol                |
-
-### 💻 Example Commands
-
-```text
-help
-```
-
-```text
-preview about artificial intelligence
-```
-
-```text
-post about the future of AI agents
-```
-
-```text
-post now
-```
-
-```text
-status
-```
-
-### 🧩 Architecture
-
-```text
-                 ┌───────────────────┐
-                 │     Agentverse    │
-                 │   Chat Interface  │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   LinkedIn Buddy  │
-                 │    uAgents Agent  │
-                 └─────────┬─────────┘
-                           │
-             ┌─────────────┴─────────────┐
-             ▼                           ▼
-      ┌──────────────┐           ┌──────────────┐
-      │   ASI:One    │           │  Image Gen   │
-      │ AI Generation │           │   Service    │
-      └──────┬───────┘           └──────┬───────┘
-             │                           │
-             └─────────────┬─────────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │  LinkedIn API   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                    📱 LinkedIn Post
-```
-
-### 🛠️ Technologies
-
-`Python` `Fetch.ai` `uAgents` `Agentverse` `ASI:One` `LinkedIn API` `REST API` `AI Image Generation`
-
-<a href="https://github.com/manoj-hg/AI_Agent-Linkdin">
-<img src="https://img.shields.io/badge/🚀%20View%20Project-FFB000?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
 
 ---
 
@@ -420,19 +329,20 @@ Showcasing my projects, experience, achievements and technical journey.
 
 # 🎯 Current Focus
 
-`🤖 AI Agents` • `☁️ Cloud Computing` • `🌱 Spring Boot` • `🧠 Computer Vision` • `⚡ Open Source`
+`🤖 AI Agents` • `⚡ Fetch.ai` • `🧠 Generative AI` • `☁️ Cloud Computing` • `🌱 Spring Boot` • `👁️ Computer Vision`
 
 ---
 
 # 📅 2026 Goals
 
 * Build production-ready AI applications
+* Build and deploy autonomous AI agents
 * Master Spring Boot
 * Explore AWS Cloud
 * Contribute to Open Source
 * Publish impactful AI projects
-* Build autonomous AI agents
-* Secure a Software Engineering role
+* Develop advanced Computer Vision systems
+* Secure a Software Engineering / AI Engineering role
 
 ---
 
